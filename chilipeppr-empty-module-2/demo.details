@@ -1,0 +1,11 @@
+---
+ name: Empty Module No. 2
+ description: An empty module to give an example of the files required for a Chilipeppr module
+ authors:
+   - John Lauer
+   - Others
+   - Richard Miles
+ resources:
+   - http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css
+   - http://www.chilipeppr.com/js/require.js
+ ...

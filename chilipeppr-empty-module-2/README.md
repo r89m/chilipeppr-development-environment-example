@@ -1,0 +1,1 @@
+Now that modules can live on GitHub, be a responsible gitter and have a README
