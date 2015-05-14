@@ -1,5 +1,5 @@
 
-alert("Debugging: demo.js file loaded");
+//alert("Debugging: demo.js file loaded");
 
 requirejs.config({
     paths: {
